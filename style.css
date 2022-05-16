@@ -1,0 +1,7 @@
+#box{
+  border-width:100%;
+  border-style:ridge;
+  border-color:black;
+  text-align: center;
+  color: red;
+}
